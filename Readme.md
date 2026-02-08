@@ -18,13 +18,13 @@ It predicts the **species of Iris flower** based on input features using a train
 ## 🗂️ Project Structure
 ML_project/
 │
-├── app.py # Streamlit web app
-├── model_train.ipynb # Model training notebook
-├── IRIS.csv # Dataset
-├── SVM.pkl # Trained ML model
-├── requirements.txt # Dependencies
-├── README.md # Project documentation
-└── venv/ # Virtual environment (optional)
+├── app.py # Streamlit web app \n
+├── model_train.ipynb # Model training notebook \n
+├── IRIS.csv # Dataset \n
+├── SVM.pkl # Trained ML model \n
+├── requirements.txt # Dependencies \n
+├── README.md # Project documentation \n
+└── venv/ # Virtual environment (optional) \n
 
 ---
 
@@ -118,7 +118,7 @@ Add model accuracy comparison
 
 ## 👨‍💻 Author
 
-Aditya Routh
+Asif Hussain Tahiri
 
 ---
 
