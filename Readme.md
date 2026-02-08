@@ -16,6 +16,9 @@ It predicts the **species of Iris flower** based on input features using a train
 ---
 
 ## 🗂️ Project Structure
+
+cat >> README.md << 'EOF'
+
 ML_project/
 │
 ├── app.py # Streamlit web app \n
@@ -126,5 +129,4 @@ Asif Hussain Tahiri
 
 This project is for educational purposes.
 
-``bash
 
